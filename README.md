@@ -13,11 +13,11 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Binary Search
 
-- [binary_search.py](search/binary_search.py) - Binary search implementation in Python.
+- [binary_search.py](SearchAlgorithms/binary_search.py) - Binary search implementation in Python.
 
 ### Linear Search
 
-- [linear_search.py](search/linear_search.py) - Linear search implementation in Python.
+- [linear_search.py](SearchAlgorithms/linear_search.py) - Linear search implementation in Python.
 
 <!-- Add more search algorithms as needed -->
 
@@ -25,11 +25,11 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Bubble Sort
 
-- [bubble_sort.py](sort/bubble_sort.py) - Bubble sort implementation in Python.
+- [bubble_sort.py](SortingAlgorithms/bubble_sort.py) - Bubble sort implementation in Python.
 
 ### Merge Sort
 
-- [merge_sort.py](sort/merge_sort.py) - Merge sort implementation in Python.
+- [merge_sort.py](SortingAlgorithms/merge_sort.py) - Merge sort implementation in Python.
 
 <!-- Add more sort algorithms as needed -->
 
@@ -37,11 +37,11 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Depth-First Search (DFS)
 
-- [depth_first_search.py](graph/depth_first_search.py) - Depth-first search implementation in Python.
+- [depth_first_search.py](GraphAlgorithms/DepthFirstSearch.ipynb) - Depth-first search implementation in Python.
 
 ### Breadth-First Search (BFS)
 
-- [breadth_first_search.py](graph/breadth_first_search.py) - Breadth-first search implementation in Python.
+- [breadth_first_search.py](GraphAlgorithms/BreadthFirstSearch.ipynb) - Breadth-first search implementation in Python.
 
 <!-- Add more graph algorithms as needed -->
 
@@ -49,7 +49,7 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Fibonacci Sequence
 
-- [fibonacci.py](dynamic_programming/fibonacci.py) - Dynamic programming solution for the Fibonacci sequence in Python.
+- [fibonacci.py](DynamicProgrammingAlgorithms/DynamicProgrammingLongestCommonSubsequence.ipynb) - Dynamic programming solution for the Fibonacci sequence in Python.
 
 <!-- Add more dynamic programming algorithms as needed -->
 
