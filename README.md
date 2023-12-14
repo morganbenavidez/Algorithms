@@ -49,7 +49,7 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Longest Common Subsequence
 
-- [fibonacci.py](DynamicProgrammingAlgorithms/DynamicProgrammingLongestCommonSubsequence.ipynb) - Dynamic programming solution for the Longest Common Subsequence in Python.
+- [longest_common_subsequence.py](DynamicProgrammingAlgorithms/DynamicProgrammingLongestCommonSubsequence.ipynb) - Dynamic programming solution for the Longest Common Subsequence in Python.
 
 <!-- Add more dynamic programming algorithms as needed -->
 
