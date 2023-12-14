@@ -37,11 +37,11 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Depth-First Search (DFS)
 
-- [depth_first_search.py](GraphAlgorithms/DepthFirstSearch.ipynb) - Depth-first search implementation in Python.
+- [depth_first_search.ipynb](GraphAlgorithms/DepthFirstSearch.ipynb) - Depth-first search implementation in Python.
 
 ### Breadth-First Search (BFS)
 
-- [breadth_first_search.py](GraphAlgorithms/BreadthFirstSearch.ipynb) - Breadth-first search implementation in Python.
+- [breadth_first_search.ipynb](GraphAlgorithms/BreadthFirstSearch.ipynb) - Breadth-first search implementation in Python.
 
 <!-- Add more graph algorithms as needed -->
 
@@ -49,7 +49,7 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 ### Longest Common Subsequence
 
-- [longest_common_subsequence.py](DynamicProgrammingAlgorithms/DynamicProgrammingLongestCommonSubsequence.ipynb) - Dynamic programming solution for the Longest Common Subsequence in Python.
+- [longest_common_subsequence.ipynb](DynamicProgrammingAlgorithms/DynamicProgrammingLongestCommonSubsequence.ipynb) - Dynamic programming solution for the Longest Common Subsequence in Python.
 
 <!-- Add more dynamic programming algorithms as needed -->
 
