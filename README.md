@@ -1,6 +1,6 @@
 # Algorithms Repository
 
-Welcome to the Algorithms Repository! This repository contains implementations and explanations of various algorithms in the fields of search, sort, graph, and dynamic programming.
+Welcome to the Algorithms Repository! This repository contains implementations and explanations of various algorithms in the fields of search, sort, graph, and dynamic programming. My goal is to find and implement as many algorithms as possible here.
 
 ## Table of Contents
 
