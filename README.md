@@ -31,6 +31,10 @@ Welcome to the Algorithms Repository! This repository contains implementations a
 
 - [merge_sort.py](SortingAlgorithms/merge_sort.py) - Merge sort implementation in Python.
 
+### Insertion Sort
+
+- [insertion_sort.py](SortingAlgorithms/insertion_sort.py) - Insertion sort implementation in Python.
+
 <!-- Add more sort algorithms as needed -->
 
 ## Graph Algorithms
